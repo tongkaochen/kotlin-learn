@@ -26,6 +26,7 @@ fun ifCondition2() {
     val max = if (a > b) a else b
     println(max)
 
+    // if 表达式
     val min = if (a > b) {
         println("Choose a")
         a

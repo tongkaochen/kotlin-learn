@@ -6,7 +6,7 @@ import com.tifone.learn.kotlin.MyKotlinKt.*;
 /**
  * Create by Tifone on 2018/5/31.
  */
-public class MyKotlinTest {
+public class MyKotlinJavaTest {
 
     @Test
     public void testIfCondition() {
